@@ -24,7 +24,7 @@ Over 48 mods, including:
 - [SkinWalker](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 - [JesterFree](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/)
 - [FreddyBraken](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FreddyBracken/)
-- [YipeeMod](hhttps://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
+- [YipeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 
 ### Quality of life mods
 
