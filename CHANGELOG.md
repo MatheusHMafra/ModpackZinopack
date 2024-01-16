@@ -14,3 +14,7 @@
 - Added 7 new mods
 - Updated a few mods
 - Updated Config files
+
+1.0.3
+
+- Forgot to update some other config files
