@@ -18,3 +18,8 @@
 1.0.3
 
 - Forgot to update some other config files
+
+1.0.4
+
+- Added and removed 2 mods
+- Modified a few config files

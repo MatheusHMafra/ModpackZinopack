@@ -1,8 +1,8 @@
 {
     "name": "Zino_Pack",
-    "version_number": "1.0.3",
+    "version_number": "1.0.4",
     "website_url": "https://github.com/MatheusHMafra/ModpackZinopack",
-    "description": "Contains 55 mods, some pre-configured (Newest version: 1.0.3)",
+    "description": "Contains 55 mods, some pre-configured (Newest version: 1.0.4)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "notnotnotswipez-MoreCompany-1.7.4",
@@ -14,7 +14,7 @@
         "FlipMods-ReservedFlashlightSlot-1.5.10",
         "FlipMods-ReservedWalkieSlot-1.5.5",
         "Evaisa-HookGenPatcher-0.0.5",
-        "Evaisa-LethalLib-0.13.1",
+        "Evaisa-LethalLib-0.13.2",
         "Evaisa-LethalThings-0.9.4",
         "sunnobunno-YippeeMod-1.2.3",
         "EliteMasterEric-Coroner-1.5.3",
@@ -22,18 +22,16 @@
         "OrtonLongGaming-FreddyBracken-1.0.6",
         "HomelessGinger-MaskedEnemyOverhaul-3.0.0",
         "FlipMods-FasterItemDropship-1.2.1",
-        "sunnobunno-LandMineFartReverb-1.0.3",
         "Thorlar-HealthStation-1.0.1",
         "EladNLG-EladsHUD-1.2.1",
         "kuba6000-LC_Masked_Fix-0.0.2",
         "no00ob-LCSoundTool-1.4.0",
         "an0nymooose-An0n_Patches-1.0.3",
-        "2018-LC_API-3.4.3",
+        "2018-LC_API-3.4.4",
         "an0nymooose-An0n_AmbientMusicSync-1.0.2",
         "AriDev-JesterFree-2.0.0",
         "TheDeadSnake-Touchscreen-1.0.8",
         "Monkeytype-HidePlayerNames-1.0.2",
-        "saint_kendrick-Lethal_Doors-1.0.3",
         "NomnomAB-RollingGiant-2.3.0",
         "Azim-LethalPresents-1.0.4",
         "Norman-GlowStickSuits-1.0.4",
@@ -58,6 +56,8 @@
         "Dragons-Custom_music_for_Mask-1.0.0",
         "Dragons-Custom_Sounds_for_Nutcracker-1.0.1",
         "Dragons-Custom_Music_For_Ghost_Girl-1.0.1",
-        "KoderTeh-Boombox_Controller-1.1.8"
+        "KoderTeh-Boombox_Controller-1.1.8",
+        "mrov-LethalRichPresence-0.5.6",
+        "Spyci-CozyImprovements-1.2.2"
     ]
 }
