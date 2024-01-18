@@ -1,13 +1,28 @@
+<!-- markdownlint-disable MD033 -->
 # Changelog
 
-1.0.0
+1.0.5
 
-- Initial release
+- Added 3 new mods
+- Added 1 new moon
+- Updated some mods
+- Updated config files
+- Added LethalRichPresence mod
+- Reduced the chance of going to the backrooms
 
-1.0.1
+<details>
+<summary>
+Older versions
+</summary>
 
-- Updated Mods
-- Added config files
+1.0.4
+
+- Added and removed 2 mods
+- Modified a few config files
+
+1.0.3
+
+- Forgot to update some other config files
 
 1.0.2
 
@@ -15,11 +30,13 @@
 - Updated a few mods
 - Updated Config files
 
-1.0.3
+1.0.1
 
-- Forgot to update some other config files
+- Updated Mods
+- Added config files
 
-1.0.4
+1.0.0
 
-- Added and removed 2 mods
-- Modified a few config files
+- Initial release
+
+</details>
