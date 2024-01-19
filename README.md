@@ -4,7 +4,7 @@ Modpack made for fun, that we use to play with friends.
 
 ## Description
 
-Over 60 mods, including:
+Over 62 mods, including:
 
 ### Cosmetic mods
 
