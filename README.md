@@ -4,7 +4,7 @@ Modpack made for fun, that we use to play with friends.
 
 ## Description
 
-Over 62 mods, including:
+Over 60 mods, including:
 
 ### Cosmetic mods
 
@@ -13,6 +13,7 @@ Over 62 mods, including:
 - [More Emotes](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 - [More Company](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)
 - [Glow Stick Suits](https://thunderstore.io/c/lethal-company/p/Norman/GlowStickSuits/)
+- [Too Many Emotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 
 ### Monsters
 
@@ -24,7 +25,6 @@ Over 62 mods, including:
 
 - [YipeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)
 - [SkinWalker](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
-- [Backrooms](https://thunderstore.io/c/lethal-company/p/Backrooms/Backrooms/)
 - [FreddyBraken](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FreddyBracken/)
 
 ### Quality of life mods
@@ -44,7 +44,6 @@ Over 62 mods, including:
 
 - 3 custom musics made by [Dragons](https://thunderstore.io/c/lethal-company/p/Dragons/) (you should check him out he makes great music)
 - Custom music for the jester ([JesterFree](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/))
-- Custom chase music for the thumper enemy ([thumper chase music](https://thunderstore.io/c/lethal-company/p/OE_Tweaks/Thumper_Chase_Music/))
 - Custom sound and music for the nutcracker ([Custom Sounds for Nutcracker](https://thunderstore.io/c/lethal-company/p/Dragons/Custom_Sounds_for_Nutcracker/))
 
 And many more!

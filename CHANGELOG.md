@@ -1,12 +1,12 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 1.0.6
+## 1.0.7
 
-- Added 4 new mods
-- Removed 2 mod
+- Removed 7 mods
+- Added 5 new mods
+- Updated 4 mods
 - Updated config files
-- Nerfed the `RollingGiant` mod
 
 ---
 
@@ -16,6 +16,13 @@
 <summary>
 Older versions
 </summary>
+
+## 1.0.6
+
+- Added 4 new mods
+- Removed 2 mod
+- Updated config files
+- Nerfed the Rolling Giant
 
 ## 1.0.5
 

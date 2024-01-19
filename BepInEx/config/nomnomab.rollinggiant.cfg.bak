@@ -98,6 +98,10 @@ MaxPerLevel = 3
 # Default value: Vow:12,March:12,Rend:12,Dine:12,Offense:12,Titan:12
 SpawnPosterIn = Vow:13,March:13,Rend:13,Dine:14,Offense:14,Titan:15
 
+GiantScaleMin = 0.85
+
+GiantScaleMax = 1.85
+
 [2. AI Settings]
 
 ## The AI type of the Rolling Giant.
@@ -211,5 +215,5 @@ ReloadConfigKey = <Keyboard>/numpad9
 ## The version of this config file. Do not change this.
 # Setting type: Int32
 # Default value: 0
-__version = 9
+__version = 5
 
