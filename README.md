@@ -4,7 +4,7 @@ Modpack made for fun, that we use to play with friends.
 
 ## Description
 
-Over 59 mods, including:
+Over 60 mods, including:
 
 ### Cosmetic mods
 
@@ -31,7 +31,6 @@ Over 59 mods, including:
 - [An0n_Patches](https://thunderstore.io/c/lethal-company/p/an0nymooose/An0n_Patches/)
 - [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
 - [Let Me Look Down](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
-- [Corporate Restructure](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure/)
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
 
 ### Custom Sounds

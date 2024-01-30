@@ -1,11 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 1.0.9
+## 1.1.0
 
-- Removed 5 mods
-- Added 6 new mods
-- Updated config and mods
+- Removed 1 mod
+- Added 3 new mods
 
 ---
 
@@ -15,6 +14,12 @@
 <summary>
 Older versions
 </summary>
+
+## 1.0.9
+
+- Removed 5 mods
+- Added 6 new mods
+- Updated config and mods
 
 ## 1.0.8
 
