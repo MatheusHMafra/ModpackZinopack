@@ -1,0 +1,54 @@
+{
+    "overrides": [
+        {
+            "action": "InventorySlot1",
+            "origPath": "<Keyboard>/1",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot2",
+            "origPath": "<Keyboard>/2",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot3",
+            "origPath": "<Keyboard>/3",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot4",
+            "origPath": "<Keyboard>/4",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot5",
+            "origPath": "<Keyboard>/5",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot6",
+            "origPath": "<Keyboard>/6",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot7",
+            "origPath": "<Keyboard>/7",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot8",
+            "origPath": "<Keyboard>/8",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot9",
+            "origPath": "<Keyboard>/9",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        },
+        {
+            "action": "InventorySlot10",
+            "origPath": "<Keyboard>/0",
+            "path": "<InputUtils-Kbm-Not-Bound>"
+        }
+    ]
+}
