@@ -97,18 +97,6 @@
       }
     },
     {
-      "key": "Hacking Tool",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 120,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Headset",
       "value": {
         "active": true,
@@ -301,18 +289,6 @@
       }
     },
     {
-      "key": "Toy Hammer",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 15,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0952
-      }
-    },
-    {
       "key": "TZP-Inhalant",
       "value": {
         "active": true,
@@ -322,18 +298,6 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Utility Belt",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 290,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0952
       }
     },
     {

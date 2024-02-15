@@ -5,9 +5,9 @@
     "keep_open_on_moon": false
   },
   "general": {
-    "global_scrap_amount_multiplier": 1.01,
-    "global_scrap_value_multiplier": 1.01,
-    "global_max_power_multiplier": 1.01,
+    "global_scrap_amount_multiplier": 1.0,
+    "global_scrap_value_multiplier": 1.0,
+    "global_max_power_multiplier": 1.0,
     "deadline_length": 3,
     "start_credits": 300,
     "activate_portable_terminal": true,

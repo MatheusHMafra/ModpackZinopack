@@ -4,7 +4,7 @@ Modpack made for fun, that we use to play with friends.
 
 ## Description
 
-Over 72 mods, including:
+Over 74 mods, including:
 
 ### Cosmetic mods
 
@@ -16,6 +16,7 @@ Over 72 mods, including:
 ### Monsters
 
 - [Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)
+- [The Fiend](https://thunderstore.io/c/lethal-company/p/Rolevote/The_Fiend/)
 - [Scopophobia](https://thunderstore.io/c/lethal-company/p/jaspercreations/Scopophobia/)
 
 ### Fun mods
