@@ -9,22 +9,6 @@
       }
     },
     {
-      "key": "Fatalities Sign",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 110
-      }
-    },
-    {
-      "key": "Glow",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 60
-      }
-    },
-    {
       "key": "Goldfish",
       "value": {
         "active": true,
@@ -54,14 +38,6 @@
         "active": true,
         "override_price": false,
         "price": 50
-      }
-    },
-    {
-      "key": "Large Rug",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 105
       }
     },
     {
@@ -145,14 +121,6 @@
       }
     },
     {
-      "key": "Dartboard",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 125
-      }
-    },
-    {
       "key": "Inverse Teleporter",
       "value": {
         "active": true,
@@ -169,27 +137,11 @@
       }
     },
     {
-      "key": "Radio",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 80
-      }
-    },
-    {
       "key": "Signal translator",
       "value": {
         "active": true,
         "override_price": false,
         "price": 255
-      }
-    },
-    {
-      "key": "Small Rug",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 85
       }
     },
     {

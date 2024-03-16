@@ -1,12 +1,12 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 1.1.2
-
-- Added 2 new mods
-- Updated a lot of mods
-
 ---
+
+## 1.1.3
+
+- Removed 10 mods
+- Again Updated a lot of mods
 
 <br>
 
@@ -14,6 +14,11 @@
 <summary>
 Older versions
 </summary>
+
+## 1.1.2
+
+- Added 2 new mods
+- Updated a lot of mods
 
 ## 1.1.1
 

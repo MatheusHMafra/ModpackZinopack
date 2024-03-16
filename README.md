@@ -32,13 +32,6 @@ Over 74 mods, including:
 - [LC_Masked_Fix](https://thunderstore.io/c/lethal-company/p/kuba6000/LC_Masked_Fix/)
 - [General Improvements](https://thunderstore.io/c/lethal-company/p/ShaosilGaming/GeneralImprovements/)
 
-### Custom Insides
-
-- [LC Office](https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/)
-- [MoreInteriors](https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
-- [Scoopys Variety Mod](https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
-- [SCPFoundationDungeon](https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
-
 ### Custom Moons
 
 - [SecretLabs](https://thunderstore.io/c/lethal-company/p/Zingar/SecretLabs/)
@@ -51,6 +44,6 @@ Over 74 mods, including:
 
 - [Lethal Resonance](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHALRESONANCE/)
 - [Lethal Resonance Meltdown](https://thunderstore.io/c/lethal-company/p/LethalResonance/LETHAL_RESONANCE_MELTDOWN/)
-- 5 custom musics made by [Dragons](https://thunderstore.io/c/lethal-company/p/Dragons/) (you should check him out he makes great music)
+- Custom musics made by [Dragons](https://thunderstore.io/c/lethal-company/p/Dragons/) (you should check him out he makes great music)
 
 And many more!

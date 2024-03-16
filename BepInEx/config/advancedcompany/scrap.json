@@ -13,42 +13,6 @@
       }
     },
     {
-      "key": "Army Canteen",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 140,
-        "override_weight": false,
-        "weight": 1.02
-      }
-    },
-    {
-      "key": "Army Helmet",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 140,
-        "override_weight": false,
-        "weight": 1.08
-      }
-    },
-    {
-      "key": "Arson Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 100,
-        "override_max_value": false,
-        "max_value": 250,
-        "override_weight": false,
-        "weight": 1.0952
-      }
-    },
-    {
       "key": "Bell",
       "value": {
         "active": true,
@@ -82,18 +46,6 @@
         "max_value": 140,
         "override_weight": false,
         "weight": 1.18
-      }
-    },
-    {
-      "key": "BronzeBar",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 105,
-        "override_max_value": false,
-        "max_value": 255,
-        "override_weight": false,
-        "weight": 1.32
       }
     },
     {
@@ -157,18 +109,6 @@
       }
     },
     {
-      "key": "Chest",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 60,
-        "override_max_value": false,
-        "max_value": 140,
-        "override_weight": false,
-        "weight": 1.22
-      }
-    },
-    {
       "key": "Clown horn",
       "value": {
         "active": true,
@@ -193,15 +133,15 @@
       }
     },
     {
-      "key": "Cookie Fumo",
+      "key": "Controller",
       "value": {
         "active": true,
         "override_min_value": false,
-        "min_value": 100,
+        "min_value": 624,
         "override_max_value": false,
-        "max_value": 250,
+        "max_value": 874,
         "override_weight": false,
-        "weight": 1.0476
+        "weight": 1.0
       }
     },
     {
@@ -214,30 +154,6 @@
         "max_value": 100,
         "override_weight": false,
         "weight": 1.15
-      }
-    },
-    {
-      "key": "Diamond",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 1065,
-        "override_max_value": false,
-        "max_value": 1335,
-        "override_weight": false,
-        "weight": 1.15
-      }
-    },
-    {
-      "key": "Dirty Arson Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 30,
-        "override_max_value": false,
-        "max_value": 150,
-        "override_weight": false,
-        "weight": 1.0952
       }
     },
     {
@@ -265,18 +181,6 @@
       }
     },
     {
-      "key": "Emerald",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 525,
-        "override_max_value": false,
-        "max_value": 795,
-        "override_weight": false,
-        "weight": 1.1
-      }
-    },
-    {
       "key": "Fancy lamp",
       "value": {
         "active": true,
@@ -286,18 +190,6 @@
         "max_value": 320,
         "override_weight": false,
         "weight": 1.2
-      }
-    },
-    {
-      "key": "Fire Axe",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 320,
-        "override_max_value": false,
-        "max_value": 480,
-        "override_weight": false,
-        "weight": 1.3
       }
     },
     {
@@ -325,30 +217,6 @@
       }
     },
     {
-      "key": "Glizzy",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 25,
-        "override_max_value": false,
-        "max_value": 60,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
-      "key": "Gnarpy Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 100,
-        "override_max_value": false,
-        "max_value": 250,
-        "override_weight": false,
-        "weight": 1.0952
-      }
-    },
-    {
       "key": "Gold bar",
       "value": {
         "active": true,
@@ -373,30 +241,6 @@
       }
     },
     {
-      "key": "Gramophone",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 120,
-        "override_max_value": false,
-        "max_value": 160,
-        "override_weight": false,
-        "weight": 1.18
-      }
-    },
-    {
-      "key": "Gremlin Can",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 45,
-        "override_max_value": false,
-        "max_value": 225,
-        "override_weight": false,
-        "weight": 1.07
-      }
-    },
-    {
       "key": "Hairdryer",
       "value": {
         "active": true,
@@ -406,18 +250,6 @@
         "max_value": 250,
         "override_weight": false,
         "weight": 1.07
-      }
-    },
-    {
-      "key": "Hamis Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 60,
-        "override_max_value": false,
-        "max_value": 250,
-        "override_weight": false,
-        "weight": 1.0476
       }
     },
     {
@@ -442,18 +274,6 @@
         "max_value": 150,
         "override_weight": false,
         "weight": 1.15
-      }
-    },
-    {
-      "key": "Key",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 0,
-        "override_max_value": false,
-        "max_value": 0,
-        "override_weight": false,
-        "weight": 1.0
       }
     },
     {
@@ -517,18 +337,6 @@
       }
     },
     {
-      "key": "Maxwell",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 180,
-        "override_max_value": false,
-        "max_value": 350,
-        "override_weight": false,
-        "weight": 1.11428
-      }
-    },
-    {
       "key": "Metal sheet",
       "value": {
         "active": true,
@@ -538,18 +346,6 @@
         "max_value": 55,
         "override_weight": false,
         "weight": 1.25
-      }
-    },
-    {
-      "key": "MP3",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 175,
-        "override_max_value": false,
-        "max_value": 275,
-        "override_weight": false,
-        "weight": 1.0
       }
     },
     {
@@ -577,18 +373,6 @@
       }
     },
     {
-      "key": "Old Radio",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 120,
-        "override_weight": false,
-        "weight": 1.1
-      }
-    },
-    {
       "key": "Painting",
       "value": {
         "active": true,
@@ -610,18 +394,6 @@
         "max_value": 260,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Pickaxe",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 175,
-        "override_max_value": false,
-        "max_value": 300,
-        "override_weight": false,
-        "weight": 1.1
       }
     },
     {
@@ -685,18 +457,6 @@
       }
     },
     {
-      "key": "Revolver",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 20,
-        "override_max_value": false,
-        "max_value": 150,
-        "override_weight": false,
-        "weight": 1.028
-      }
-    },
-    {
       "key": "Ring",
       "value": {
         "active": true,
@@ -709,18 +469,6 @@
       }
     },
     {
-      "key": "RockingHorse",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 120,
-        "override_max_value": false,
-        "max_value": 160,
-        "override_weight": false,
-        "weight": 1.18
-      }
-    },
-    {
       "key": "Rubber Ducky",
       "value": {
         "active": true,
@@ -730,30 +478,6 @@
         "max_value": 250,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Ruby",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 795,
-        "override_max_value": false,
-        "max_value": 1065,
-        "override_weight": false,
-        "weight": 1.15
-      }
-    },
-    {
-      "key": "SilverBar",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 193,
-        "override_max_value": false,
-        "max_value": 390,
-        "override_weight": false,
-        "weight": 1.4
       }
     },
     {
@@ -814,18 +538,6 @@
         "max_value": 210,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Toimari Plush",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 100,
-        "override_max_value": false,
-        "max_value": 250,
-        "override_weight": false,
-        "weight": 1.0952
       }
     },
     {
@@ -901,18 +613,6 @@
       }
     },
     {
-      "key": "TypeWriter",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 120,
-        "override_weight": false,
-        "weight": 1.15
-      }
-    },
-    {
       "key": "V-type engine",
       "value": {
         "active": true,
@@ -937,30 +637,6 @@
       }
     },
     {
-      "key": "Weezer Guitar",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 240,
-        "override_max_value": false,
-        "max_value": 320,
-        "override_weight": false,
-        "weight": 1.3
-      }
-    },
-    {
-      "key": "WheelRim",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 140,
-        "override_weight": false,
-        "weight": 1.15
-      }
-    },
-    {
       "key": "Whoopie cushion",
       "value": {
         "active": true,
@@ -973,18 +649,6 @@
       }
     },
     {
-      "key": "WireSpool",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 90,
-        "override_max_value": false,
-        "max_value": 120,
-        "override_weight": false,
-        "weight": 1.12
-      }
-    },
-    {
       "key": "Yield sign",
       "value": {
         "active": true,
@@ -994,18 +658,6 @@
         "max_value": 90,
         "override_weight": false,
         "weight": 1.4
-      }
-    },
-    {
-      "key": "Yippee",
-      "value": {
-        "active": true,
-        "override_min_value": false,
-        "min_value": 100,
-        "override_max_value": false,
-        "max_value": 150,
-        "override_weight": false,
-        "weight": 1.0
       }
     }
   ]

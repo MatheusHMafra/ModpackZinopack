@@ -25,18 +25,6 @@
       }
     },
     {
-      "key": "Emergency Flare (ammo)",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 40,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.009523
-      }
-    },
-    {
       "key": "Extension ladder",
       "value": {
         "active": true,
@@ -46,18 +34,6 @@
         "max_discount": 60,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Flaregun",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 150,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.028
       }
     },
     {
@@ -82,18 +58,6 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.0476191
-      }
-    },
-    {
-      "key": "Geiger Counter",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 90,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.05
       }
     },
     {
@@ -169,18 +133,6 @@
       }
     },
     {
-      "key": "Pinger",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 150,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.028
-      }
-    },
-    {
       "key": "Pro-flashlight",
       "value": {
         "active": true,
@@ -205,18 +157,6 @@
       }
     },
     {
-      "key": "Remote Radar",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 200,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.0476
-      }
-    },
-    {
       "key": "Rocket boots",
       "value": {
         "active": true,
@@ -226,18 +166,6 @@
         "max_discount": 80,
         "override_weight": false,
         "weight": 1.0
-      }
-    },
-    {
-      "key": "Rocket Launcher",
-      "value": {
-        "active": true,
-        "override_price": false,
-        "price": 325,
-        "override_max_discount": false,
-        "max_discount": 80,
-        "override_weight": false,
-        "weight": 1.38
       }
     },
     {
