@@ -3,6 +3,10 @@
 
 ---
 
+## 2.0.1
+
+- Doesn't show console window anymore
+
 ## 2.0.0
 
 - Reworked modpack

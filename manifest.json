@@ -1,8 +1,8 @@
 {
     "name": "Zino_Pack",
-    "version_number": "2.0.0",
+    "version_number": "2.0.1",
     "website_url": "https://github.com/MatheusHMafra/ModpackZinopack",
-    "description": "Contains 60 mods, some pre-configured (Newest version: 2.0.0)",
+    "description": "[REWORKED] Contains 60 mods (Newest version: 2.0.1)",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "notnotnotswipez-MoreCompany-1.9.1",
