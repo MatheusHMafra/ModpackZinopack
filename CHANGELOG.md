@@ -3,10 +3,11 @@
 
 ---
 
-## 1.1.3
+## 2.0.0
 
-- Removed 10 mods
-- Again Updated a lot of mods
+- Reworked modpack
+- Removed detailed Readme (i doubt anyone read it, and it was a lot of work specifying some mods)
+- Skipped to 2.0.0 cause it's a rework
 
 <br>
 
@@ -14,6 +15,11 @@
 <summary>
 Older versions
 </summary>
+
+## 1.1.3
+
+- Removed 10 mods
+- Again Updated a lot of mods
 
 ## 1.1.2
 
