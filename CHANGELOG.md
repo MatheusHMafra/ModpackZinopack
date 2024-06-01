@@ -1,11 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
----
-
 ## 2.0.1
 
 - Doesn't show console window anymore
+- Forgot about the changelog extra line too :sob:
 
 ## 2.0.0
 
