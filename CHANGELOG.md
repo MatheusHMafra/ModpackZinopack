@@ -1,6 +1,19 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
+## 2.0.2
+
+- Changed some config files
+- Updated some mods
+- Removed some mods
+
+<br>
+
+<details>
+<summary>
+Older versions
+</summary>
+
 ## 2.0.1
 
 - Doesn't show console window anymore
@@ -11,13 +24,6 @@
 - Reworked modpack
 - Removed detailed Readme (i doubt anyone read it, and it was a lot of work specifying some mods)
 - Skipped to 2.0.0 cause it's a rework
-
-<br>
-
-<details>
-<summary>
-Older versions
-</summary>
 
 ## 1.1.3
 
