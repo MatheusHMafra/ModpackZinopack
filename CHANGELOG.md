@@ -1,11 +1,13 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 2.0.2
+## 2.0.3
 
-- Changed some config files
+- Modified some config files
 - Updated some mods
 - Removed some mods
+- Added some mods
+- Too lazy to write a detailed changelog :(
 
 <br>
 
@@ -13,6 +15,12 @@
 <summary>
 Older versions
 </summary>
+
+## 2.0.2
+
+- Changed some config files
+- Updated some mods
+- Removed some mods
 
 ## 2.0.1
 
