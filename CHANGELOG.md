@@ -1,12 +1,10 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 2.1.0
+## 2.1.1
 
-- Updated all mods (oh god)
-- Added some mods
-- Removed some mods
-- Skipped to 2.1.0 cause it's a rework again xd
+- Update more mods
+- And configs
 
 <br>
 
@@ -14,6 +12,13 @@
 <summary>
 Older versions
 </summary>
+
+## 2.1.0
+
+- Updated all mods (oh god)
+- Added some mods
+- Removed some mods
+- Skipped to 2.1.0 cause it's a rework again xd
 
 ## 2.0.4
 
