@@ -1,10 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 # Changelog
 
-## 2.1.1
+## 2.2.0
 
-- Update more mods
-- And configs
+- Yes
 
 <br>
 
@@ -12,6 +11,11 @@
 <summary>
 Older versions
 </summary>
+
+## 2.1.1
+
+- Update more mods
+- And configs
 
 ## 2.1.0
 
